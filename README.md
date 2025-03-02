@@ -1,5 +1,5 @@
 # Welcome to My Github Page!
 **I'm currently interested in:**  
-- Boosting Legal Reasoning via LLMs
-- Backdoor Learning
+- Contextual Integrity Reasoning
+- LLM Reasoning via RL-based Methods
 - Textual Graph Representation Learning
