@@ -1,5 +1,5 @@
 # Welcome to My Github Page!
 **I'm currently interested in:**  
-- Contextual Integrity Reasoning
-- LLM Reasoning via RL-based Methods
-- Textual Graph Representation Learning
+- Multi-Reward RL Learning
+- Safety Alignment and Security Protection
+- Contextual Integrity for Privacy
